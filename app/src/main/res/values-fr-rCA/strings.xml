@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratoire1-FelixLap-Nar</string>
+    <string name="email">Votre Courriel</string>
+    <string name="password">Votre mot de passe</string>
+    <string name="showpassword">Afficher votre mot de passe</string>
+    <string name="validatepassword">VALIDER MOT DE PASSE</string>
+    <string name="invalid">Courriel ou mot de passe non valide</string>
+    <string name="valid">Courriel ou mot de passe valide</string>
+
+</resources>
