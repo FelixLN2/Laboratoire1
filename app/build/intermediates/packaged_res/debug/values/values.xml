@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="invalid">#E30E0E</color>
+    <color name="ruban">#800080</color>
+    <color name="valid">#FF3039DC</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Laboratory1-FelixLap-Nar</string>
+    <string name="email">Your Email</string>
+    <string name="invalid">Email or Password is invalid</string>
+    <string name="password">Your Password</string>
+    <string name="showpassword">Show Password</string>
+    <string name="valid">Email and Password are valid</string>
+    <string name="validatepassword">VALIDATE PASSWORD</string>
+    <style name="Theme.Laboratoire1" parent="Theme.Material3.DayNight">
+        
+        
+        <item name="colorPrimary">@color/ruban</item>
+
+        <item name="windowActionBar">true</item>
+
+
+    </style>
+</resources>

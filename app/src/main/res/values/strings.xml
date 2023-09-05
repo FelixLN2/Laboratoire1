@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Laboratory1-FelixLap-Nar</string>
-    <string name="email">Your Email</string>
-    <string name="password">Your Password</string>
-    <string name="showpassword">Show Password</string>
-    <string name="validatepassword">VALIDATE PASSWORD</string>
-    <string name="invalid">Email or Password is invalid</string>
-    <string name="valid">Email and Password are valid</string>
-</resources>
